@@ -1,0 +1,44 @@
+﻿Список необходимых плагинов:
+
+
+* All Autocomplete
+* Auto Close Tag
+* Auto Complete Tag
+* Auto Rename Tag
+
+Bracket Pair Colorizer
+Better Comments
+Indent Rainbow
+
+BEM Helper
+
+* eCSStractor
+
+CSS Navigation
+
+Image Preview
+
+* Project Manager
+
+* Vscode Google Translate
+
+* GitLens
+
+* Beautify
+* Code Runner
+* Import Cost
+* JavaScript (ES6) code snippets
+* jshint
+* Live Server
+* Multiple clipboards for VSCode
+* Sass
+SCSS IntelliSense
+SCSS Formatter
+Live Sass Compiler
+* Reactjs code snippets
+* Prettier - Code formatter (в настройках -format on save)
+* Easy Less
+* ESLint
+* vscode-icons
+* Theme - Oceanic Next
+* Material Theme

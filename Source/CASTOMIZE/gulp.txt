@@ -1,0 +1,26 @@
+npm init
+npm install --global gulp-cli //глобальная установка системы управления пакетами
+npm install gulp-cli --save-dev //локальная установка системы управления пакетами
+npm install gulp --save-dev  //установка пакета
+
+Пакеты
+npm i gulp-sass --save-dev //установка gulp-sass
+npm install -g browser-sync //установка browser-sync глобально
+npm install browser-sync --save-dev //установка browser-sync локально
+npm install --save-dev gulp-autoprefixer
+npm install gulp-clean-css --save-dev
+npm i gulp-rename --save-dev
+
+Настройка
+создать в коневом каталоге файл gulpfile.js
+
+PowerShell от имени администратора
+Пишем и запускаем: Set-ExecutionPolicy RemoteSigned
+На вопрос отвечаем: A (Да для всех)
+
+Возможности browser-sync
+http://localhost:5000/ поменять на http://localhost:5001/
+
+Для другого проекта.
+Скопировать файлы package.json и gulpfile.js  в папку проекта.
+В терминале запустить команду "npm i"

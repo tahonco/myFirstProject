@@ -1,0 +1,21 @@
+git init  //инициализация реппозитория
+git config  //конфигурация
+git config --local user.name "tahonco"
+git config --local user.email tahonco@gmail.com
+
+git status 
+git add -A  //добавление в Index  -A //все файлы  mai.css //конкретный файл  *css //все файлы css
+git commit -a -m"изменения" //создание контрольной точки //-a - все файлы //-m - message - краткое описание изменений
+git checkuot -- <file>...  //отменить все изменения
+git log //просмотр логов изменений
+
+Создать реппозиторий на GitHub
+копировать команду из 2 раздела ...push
+git remote add origin https://github.com/tahonco/git_test_project.git   //remote add - подключить всё
+git push -u orirgin master //-u - push имеено сюда
+
+git clone https://github.com/tahonco/git_test_project.git //создать клон 
+git push //отправить на сервер
+git pull //получить - синхронизировать данные с сервера
+
+vim - ctrl+c :wq!
